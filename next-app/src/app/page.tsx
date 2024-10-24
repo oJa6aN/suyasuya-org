@@ -24,7 +24,7 @@ export default function Home() {
   }, [router])
 
   return (
-    <>suyasuya
+    <>
     </>
   )
 }
