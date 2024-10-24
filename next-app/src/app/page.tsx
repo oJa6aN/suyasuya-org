@@ -20,7 +20,7 @@ export default function Home() {
   const router = useRouter()
 
   useEffect(() => {
-    // handleRedirect(router)
+    handleRedirect(router)
   }, [router])
 
   return (
